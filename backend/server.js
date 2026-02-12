@@ -27,7 +27,7 @@ const DB_CONFIG = {
   host: "localhost",
   user: "root",
   password: "",
-  database: "ipflow_db",
+  database: "ipam_flow_db",
   waitForConnections: true,
   connectionLimit: 10,
 };
