@@ -24,9 +24,9 @@ app.use(express.json());
 
 // ─── Database Config ──────────────────────────────────────────
 const DB_CONFIG = {
-  host: "localhost",
-  user: "root",
-  password: "",
+  host: "ekerja_almi_db",
+  user: "almi_ku",
+  password: "Bintang2021#",
   database: "ipam_flow_db",
   waitForConnections: true,
   connectionLimit: 10,
